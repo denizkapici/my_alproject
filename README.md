@@ -1,3 +1,3 @@
 # Zar Atma Uygulaması
 
-Bu uygulama 1'den 6'ya rastgele zar atar.
+Bu proje, 1'den 6'ya rastgele zar atan bir Python CLI uygulamasıdır.
