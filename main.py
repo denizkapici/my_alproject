@@ -1,10 +1,14 @@
-import random
-import argparse
+def add(x, y):
+    return x + y
 
-parser = argparse.ArgumentParser(description='Random number generator')
-parser.add_argument('--min', type=int, default=1, help='Minimum value')
-parser.add_argument('--max', type=int, default=100, help='Maximum value')
-args = parser.parse_args()
+def subtract(x, y):
+    return x - y
 
-random_number = random.randint(args.min, args.max)
-print(f'Random number: {random_number}')
+def multiply(x, y):
+    return x * y
+
+def divide(x, y):
+    if y == 0:
+        return 'Hata! Sıfıra bölme hatası'
+    else:
+        return x / y
