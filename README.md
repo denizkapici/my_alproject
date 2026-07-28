@@ -1,8 +1,14 @@
-# 4 İşlem Hesap Makinesi
-Bu proje, basit 4 işlem hesap makinesi işlevselliği sunar. Kullanıcı, toplama, çıkarma, çarpma veya bölme işlemlerini seçebilir ve iki sayı girebilir. Program, seçilen işlemin sonucunu gösterir.
+# Random Number Generator
 
-## Kullanım
-1. `main.py` dosyasını çalıştırın.
-2. İşlemi seçin (1-4 arası).
-3. İki sayı girin.
-4. Sonuç görüntüleyin.
+A simple Python CLI application that generates a random number between 1 and a given percentage.
+
+## Usage
+
+```bash
+python main.py --min 1 --max 100
+```
+
+## Requirements
+
+* Python 3.x
+* argparse library
