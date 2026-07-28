@@ -70,7 +70,7 @@ if __name__ == "__main__":
     repo_url = "https://github.com/denizkapici/my_alproject.git"
     
     task = (
-        f" basit hesap makinası yapan  bir Python CLI uygulaması geliştir. "
+        f"   1. Girilen bir dizideki elemanları, sıralarını bozmadan, yeni bir diziye aktaran bir program yazın. Örneğin girdi {3, 3, 87, 56, 1, 87, 3, 2 } ise çıktı {3, 87, 56, 1, 2 } olmalıdır. bir Python CLI uygulaması geliştir. "
         f"Bir main.py, bir requirements.txt ve bir README.md oluştur. "
         f"Ardından bu projeyi '{repo_url}' reposuna push et."
     )

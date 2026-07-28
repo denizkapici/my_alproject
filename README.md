@@ -1,3 +1,3 @@
-# Basit Hesap Makinası
+# My AL Project
 
-Bu proje, basit dört işlemleri (toplama, çıkarma, çarpma, bölme) gerçekleştirebilen bir hesap makinesi uygulamasıdır.
+A Python CLI application that removes duplicates from a list while preserving the original order.
