@@ -70,7 +70,7 @@ if __name__ == "__main__":
     repo_url = "https://github.com/denizkapici/my_alproject.git"
     
     task = (
-        f"1ile 100 arasında sayi tahmin eden    bir Python CLI uygulaması geliştir. "
+        f" 4 işlem basit hesap makinası    bir Python CLI uygulaması geliştir. "
         f"Bir main.py, bir requirements.txt ve bir README.md oluştur. "
         f"Ardından bu projeyi '{repo_url}' reposuna push et."
     )
