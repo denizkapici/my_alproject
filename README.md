@@ -1,2 +1,3 @@
-# Sayı Tahmin Oyunu
-Bu bir sayı tahmin oyunu içeren Python CLI uygulamasıdır.
+# Zar Atma Uygulaması
+
+Bu proje, 1'den 6'ya rastgele zar atan bir Python CLI uygulamasıdır.

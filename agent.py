@@ -66,11 +66,11 @@ agent = create_agent(llm, tools)
 # 4. AJANI ÇALIŞTIRMA
 # ---------------------------------------------------------
 if __name__ == "__main__":
-    # NOT: Kendi GitHub kullanıcı adınla değiştirmeyi unutma!
+   
     repo_url = "https://github.com/denizkapici/my_alproject.git"
     
     task = (
-        f"Sayı tahmin oyunu içeren bir Python CLI uygulaması geliştir. "
+        f"1 den 6 ya rastgele zar atan  bir Python CLI uygulaması geliştir. "
         f"Bir main.py, bir requirements.txt ve bir README.md oluştur. "
         f"Ardından bu projeyi '{repo_url}' reposuna push et."
     )
